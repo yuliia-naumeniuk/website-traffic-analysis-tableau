@@ -8,7 +8,7 @@ Tableau dashboard analyzing website traffic, user devices, browsers, and traffic
 Analyze website traffic data to understand user behavior, traffic sources, and session distribution across countries, devices, and browsers.
 
 ## Tools
-Tableau, Dashboard Design, Data Visualization, KPI Analysis 
+Tableau, Data Visualization, Dashboard Design, KPI Analysis 
 
 ## Key Insights
 - Most sessions come from desktop devices, followed by mobile.
